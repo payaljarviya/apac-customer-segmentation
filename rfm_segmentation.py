@@ -1,5 +1,5 @@
 """
-APAC E-Commerce Customer Segmentation — RFM Analysis
+Customer Segmentation with RFM Analysis
 ======================================================
 Author: Payal Jarviya
 MBA Candidate | SKK GSB Seoul | AI & Business Analytics
